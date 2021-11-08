@@ -1,0 +1,3 @@
+[submodule "isaac-typescript-definitions"]
+	path = isaac-typescript-definitions
+	url = https://github.com/IsaacScript/isaac-typescript-definitions
